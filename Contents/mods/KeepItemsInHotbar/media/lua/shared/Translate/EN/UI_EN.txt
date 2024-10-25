@@ -1,0 +1,13 @@
+UI_EN = {
+    UI_KIiH_Title = "Keep Items in Hotbar",
+    UI_KIiH_Option_Flashlight = "Flashlight",
+    UI_KIiH_Tooltip_Flashlight = "Keep flashlight staying on belt when replacing batteries",
+    UI_KIiH_Option_WaterContainer = "Water Container",
+    UI_KIiH_Tooltip_WaterContainer = "Work with mods like <LINE> [Better Belts]",
+    UI_KIiH_Option_Drainable = "Drainable",
+    UI_KIiH_Tooltip_Drainable = "Pills, etc. <LINE> Work with mods like <LINE> [Noir's Attachments]",
+    UI_KIiH_Option_Weapon = "Weapon",
+    UI_KIiH_Tooltip_Weapon = "Replace broken weapon in hotbar, but you still need to equip it manually",
+    UI_KIiH_Option_Others = "Others",
+    UI_KIiH_Tooltip_Others = "Anything else that can be attached in the hotbar",
+}

@@ -1,0 +1,13 @@
+UI_CN = {
+    UI_KIiH_Title = "保持物品在热键栏上",
+    UI_KIiH_Option_Flashlight = "手电筒",
+    UI_KIiH_Tooltip_Flashlight = "更换电池时让手电筒保持在腰带上",
+    UI_KIiH_Option_WaterContainer = "水容器",
+    UI_KIiH_Tooltip_WaterContainer = "需要相关模组，例如 <LINE> [Better Belts]",
+    UI_KIiH_Option_Drainable = "消耗品",
+    UI_KIiH_Tooltip_Drainable = "药片等 <LINE> 需要相关模组，例如 <LINE> [Noir's Attachments]",
+    UI_KIiH_Option_Weapon = "武器",
+    UI_KIiH_Tooltip_Weapon = "自动替换热键栏上损坏的武器，但你仍需要手动装备它",
+    UI_KIiH_Option_Others = "其它",
+    UI_KIiH_Tooltip_Others = "其它可放在热键栏上的任何物品",
+}
