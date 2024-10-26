@@ -1,5 +1,6 @@
 version=1
+id=3354781435
 title=Keep Items in Hotbar
-description=
+description=Keep Items in Hotbar
 tags=
 visibility=public
